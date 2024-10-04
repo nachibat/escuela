@@ -13,11 +13,13 @@ namespace ConsoleApp1
             Alumno al = new Alumno(1, "Jose", "Dominguez", "10/10/2000", true);
             Conserje con = new Conserje(2, "Lucas", "Ladislao", "21/12/2002", "Cafeteria");
             Profesor pro = new Profesor(3, "Maria", "Juarez", "10/10/1999", "Fisica");
+            Profesor pro1 = new Profesor(3, "Maria", "Juarez", "10/10/1999", "Fisica");
 
             Escuela esc = new Escuela("UTN");
             esc.AgregarProfesor(pro);
             esc.AgregarConserje(con);
             esc.AgregarAlumno(al);
+            esc.AgregarProfesor(pro1);
             esc.ListarPersona();
 
             Console.ReadLine();
