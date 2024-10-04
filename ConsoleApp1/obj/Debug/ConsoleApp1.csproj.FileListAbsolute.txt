@@ -1,0 +1,7 @@
+C:\Users\otorrez\Desktop\Mis proyectos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\otorrez\Desktop\Mis proyectos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\otorrez\Desktop\Mis proyectos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\otorrez\Desktop\Mis proyectos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\otorrez\Desktop\Mis proyectos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\otorrez\Desktop\Mis proyectos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\otorrez\Desktop\Mis proyectos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
